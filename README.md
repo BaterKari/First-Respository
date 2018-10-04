@@ -1,2 +1,2 @@
 # First-Respository
-My first repository created for practice. This repository involves the completely notional Data.World basketball League.
+My first repository created for practice.
